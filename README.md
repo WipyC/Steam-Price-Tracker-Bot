@@ -21,40 +21,40 @@
 
 1. Клонировать репозиторий:
 
-git clone https://github.com/your-repo/steam-price-bot.git
-cd steam-price-bot
+###git clone https://github.com/your-repo/steam-price-bot.git
+###cd steam-price-bot
 
 2. Создать виртуальное окружение:
 
-python -m venv venv
-source venv/bin/activate  # Linux/MacOS
-venv\Scripts\activate  # Windows
+###python -m venv venv
+###source venv/bin/activate  # Linux/MacOS
+###venv\Scripts\activate  # Windows
 
 3. Установить зависимости:
 
-pip install -r requirements.txt
+###pip install -r requirements.txt
 
 4. Написать токен в config.py:
 
-TOKEN = "ваш_токен_бота"
+###TOKEN = "ваш_токен_бота"
 
 ## Запуск
 
-python main.py
+###python main.py
 
 ## Команды
 
-/start - начать работу с ботом
+###/start - начать работу с ботом
 
-/cancel - отменить текущее действие
+###/cancel - отменить текущее действие
 
 ## Основное меню:
 
-"Ваш список игр Steam" - показать список добавленных игр
+###"Ваш список игр Steam" - показать список добавленных игр
 
-"Добавить url" - начать добавление игры по URL
+###"Добавить url" - начать добавление игры по URL
 
-"Удалить url" - удалить игру из списка
+###"Удалить url" - удалить игру из списка
 
 ## Структура проекта
 steam-price-bot/
