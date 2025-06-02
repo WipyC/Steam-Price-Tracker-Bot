@@ -21,7 +21,7 @@
 
 ## 1. Клонировать репозиторий:
 
-- git clone https://github.com/your-repo/steam-price-bot.git
+- git clone https://github.com/WipyCSteam-Price-Tracker-Bot
 - cd steam-price-bot
 
 ## 2. Создать виртуальное окружение:
