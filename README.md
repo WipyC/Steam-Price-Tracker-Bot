@@ -19,12 +19,12 @@
 
 ## Установка
 
-## 1. Клонировать репозиторий:
+1. Клонировать репозиторий:
 
 - git clone https://github.com/your-repo/steam-price-bot.git
 - cd steam-price-bot
 
-## 2. Создать виртуальное окружение:
+2. Создать виртуальное окружение:
 
 - python -m venv venv
 - source venv/bin/activate  # Linux/MacOS
